@@ -14,3 +14,12 @@
   [plugins.inputs]
       record = true
       group = "Testing Built Site"
+
+[[redirects]]
+  from = "https://bilweekend.iq/"
+  to = "https://bilweekend.com/"
+  status = 301
+  force = true
+
+
+
